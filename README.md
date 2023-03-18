@@ -1,25 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14899
-Fork on GitHub
-4008
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Murat BABABAYİĞİT</h1>
 <h3 align="center">Whatever you do, Do it with love</h3>
 
 - 🎯 [QA Instruction](#)
 
-- 🎯 I’m currently learning **New info..**
+- 🎯 [I’m currently learning](#)
 
 - 🎯 [ISTQB](#)
 
