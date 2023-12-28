@@ -9,7 +9,16 @@
 
 - 🎯 [Java Practice](#)
 
-- 🎯 Selenium Practice (#)
+- 🎯 [Selenium Practice](#)
+  
+- 🎯 [HTML / CSS ](#)
+  
+- 🎯 [ API ](#)
+  
+- 🎯 [ Git /Github ](#)
+  
+- 🎯 [ UI Project ](#)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
