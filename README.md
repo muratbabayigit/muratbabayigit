@@ -5,7 +5,7 @@
 
 - 🎯 [I’m currently learning](#)
   
-- 🎯 [Teachinf of ...](#)
+- 🎯 [Teaching of ...](#)
   
 - 🎯 [Java Practice](#)
 
