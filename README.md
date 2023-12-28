@@ -11,13 +11,17 @@
 
 - 🎯 [Selenium Practice](#)
   
-- 🎯 [HTML / CSS ](#)
+- 🎯 [HTML / CSS / JS Foundation](#)
   
 - 🎯 [ API ](#)
   
 - 🎯 [ Git /Github ](#)
   
 - 🎯 [ UI Project ](#)
+  
+- 🎯 [ Cypress ](#)
+  
+- 🎯 [ Playright ](#)
   
 
 <h3 align="left">Connect with me:</h3>
