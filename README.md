@@ -11,7 +11,7 @@
 
 - 🎯 [Selenium Practice](#)
   
-- 🎯 [HTML / CSS / JS Foundation](#)
+- 🎯 [HTML / CSS / JS Fundementals](#)
   
 - 🎯 [ API ](#)
   
