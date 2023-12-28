@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Murat BABABAYİĞİT</h1>
 <h3 align="center">Whatever you do, Do it with love</h3>
 
-- 🎯 [QA Instruction](#)
+- 🎯 [QA Instruction at Wise Quarter](#)
 
 - 🎯 [I’m currently learning](#)
-
-- 🎯 [ISTQB](#)
-
+  
+- 🎯 [Teachinf of ...](#)
+  
 - 🎯 [Java Practice](#)
 
 - 🎯 [Selenium Practice](#)
@@ -22,6 +22,10 @@
 - 🎯 [ Cypress ](#)
   
 - 🎯 [ Playright ](#)
+  
+
+- 🎯 [ISTQB](#)
+
   
 
 <h3 align="left">Connect with me:</h3>
