@@ -21,7 +21,7 @@
   
 - 🎯 [ Cypress ](#)
   
-- 🎯 [ Playright ](#)
+- 🎯 [ Playwright ](#)
   
 
 - 🎯 [ISTQB](#)
